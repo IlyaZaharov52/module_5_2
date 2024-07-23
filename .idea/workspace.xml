@@ -4,15 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43f5a2b5-bec7-4096-b8a9-1919fe2e7c36" name="Changes" comment="module_5_2" />
+    <list default="true" id="43f5a2b5-bec7-4096-b8a9-1919fe2e7c36" name="Changes" comment="module_5_2_">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IlyaZaharov52"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IlyaZaharov52/module_5_2.git",
+    "accountId": "42f41888-1dff-46f1-9ccd-f53c34463c36"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -25,8 +47,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.module_5_2.executor": "Run",
+    "Python.module_5_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PC/PycharmProjects/pythonProjectTraining"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -53,11 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1721731953695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="module_5_2_">
+      <option name="closed" value="true" />
+      <created>1721732030311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721732030312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="module_5_2_">
+      <option name="closed" value="true" />
+      <created>1721734805862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721734805862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="module_5_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="module_5_2" />
+    <MESSAGE value="module_5_2_" />
+    <option name="LAST_COMMIT_MESSAGE" value="module_5_2_" />
   </component>
 </project>
